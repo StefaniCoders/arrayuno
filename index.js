@@ -12,7 +12,4 @@ describe("Ejercicio1", function(){
     assert.equal(8640,ejercicio1 ([4,4,5,12],9));
   });
 
-  it ("Prueba de [0,23,35,2] y 7 " , function(){
-    assert.equal(8640,ejercicio1 ([4,4,5,12],9));
-  });
 });
